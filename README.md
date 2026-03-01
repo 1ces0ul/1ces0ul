@@ -20,7 +20,7 @@ class Identity:
     def __init__(self):
         self.handle    = "1ces0ul"
         self.os        = "Arch Linux"
-        self.wm        = "River (Wayland)"
+        self.wm        = "Rijan (River / Wayland)"
         self.editor    = "Neovim"
         self.shell     = "Bash"
         self.interests = ["Linux", "Wayland", "Self-hosting", "Cloud"]
