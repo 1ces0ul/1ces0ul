@@ -52,6 +52,7 @@ class Identity:
 |:-----|:----:|:-----|
 | [Fcitx5 Wayland 配置指南](https://github.com/1ces0ul/linux-guides/blob/main/docs/fcitx5-wayland-guide.md) | `🟢 LIVE` | Wayland 输入法协议原理 + 全合成器配置 |
 | [Oracle ARM 免费实例抢购](https://github.com/1ces0ul/linux-guides/blob/main/docs/oracle-arm-free-guide.md) | `🟢 LIVE` | 4核24G 永久白嫖 + 自动抢购脚本 |
+| [Rijan 窗口管理器改造记录](https://github.com/1ces0ul/linux-guides/blob/main/docs/rijan-fork-guide.md) | `🟢 LIVE` | Janet WM 改造：三种布局 + 智能子窗口 + 容错 |
 
 ---
 
