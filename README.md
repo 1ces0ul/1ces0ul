@@ -23,7 +23,7 @@ class Identity:
         self.wm        = "Rijan (River / Wayland)"
         self.editor    = "Neovim"
         self.shell     = "Bash"
-        self.interests = ["Linux", "Wayland", "ㄊㄨㄟ ㄧㄢˇ", "Cloud"]
+        self.interests = ["ㄊㄨㄟ ㄧㄢˇ"]
         self.motto     = "折腾是第一生产力"
 ```
 
