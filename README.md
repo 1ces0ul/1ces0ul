@@ -33,11 +33,10 @@ class Identity:
 
 <p>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=0a0a0f&labelColor=00f0ff" />
-<img src="https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=white&color=0a0a0f&labelColor=ff00ff" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0a0a0f&labelColor=00f0ff" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&color=0a0a0f&labelColor=ff00ff" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0a0a0f&labelColor=00f0ff" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0a0a0f&labelColor=ff00ff" />
+<img src="https://img.shields.io/badge/River-Wayland-00f0ff?style=for-the-badge&color=0a0a0f&labelColor=00f0ff" />
+<img src="https://img.shields.io/badge/Rijan-Janet_WM-ff00ff?style=for-the-badge&color=0a0a0f&labelColor=ff00ff" />
+<img src="https://img.shields.io/badge/Halmak-Keyboard-00f0ff?style=for-the-badge&color=0a0a0f&labelColor=00f0ff" />
 </p>
 
 ---
