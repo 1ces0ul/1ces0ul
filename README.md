@@ -9,7 +9,7 @@
  ╚═╝ ╚═════╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=%3E+cat+%2Fproc%2Fidentity;%3E+Linux+%7C+Wayland+%7C+River;%3E+cyberpunk+is+not+dead;%3E+root%401ces0ul%3A~%23+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=%3E+cat+%2Fproc%2Fidentity;%3E+Linux+%7C+Neovim+%7C+River+%7C+Halmak;%3E+cyberpunk+is+not+dead;%3E+root%401ces0ul%3A~%23+_" alt="Typing SVG" />
 
 ---
 
