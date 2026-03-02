@@ -58,8 +58,8 @@ class Identity:
 ### `// STATS`
 
 <p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1ces0ul&show_icons=true&theme=radical&bg_color=0a0a0f&title_color=00f0ff&text_color=e0e0e0&icon_color=ff00ff&border_color=00f0ff&hide_border=false" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1ces0ul&theme=radical&background=0a0a0f&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=00f0ff&border=00f0ff&stroke=00f0ff&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=555555" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=1ces0ul&show_icons=true&bg_color=0a0a0f&title_color=00f0ff&text_color=e0e0e0&icon_color=ff00ff&border_color=00f0ff&hide_border=false" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1ces0ul&background=0a0a0f&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=00f0ff&border=00f0ff&stroke=00f0ff&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=555555" height="165" />
 </p>
 
 ---
