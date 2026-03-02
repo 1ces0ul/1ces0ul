@@ -34,7 +34,7 @@ class Identity:
 <p>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=0a0a0f&labelColor=00f0ff" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&color=0a0a0f&labelColor=ff00ff" />
-<img src="https://img.shields.io/badge/River-Wayland-00f0ff?style=for-the-badge&color=0a0a0f&labelColor=00f0ff" />
+<img src="https://img.shields.io/badge/River-Wayland-00f0ff?style=for-the-badge&color=0a0a0f&labelColor=00f0ff&logo=data:image/svg%2Bxml;base64,PCEtLQpTUERYLUZpbGVDb3B5cmlnaHRUZXh0OiDCqSAyMDI0IElzYWFjIEZyZXVuZApTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogQ0MtQlktU0EtNC4wCi0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEyMCAxMjAiPgogIDxwYXRoIGQ9Ik01OS4yOSAxMHMxMS4yNjggNS40MzYgMTcuNjc2IDEzLjY5YzYuNDA4IDguMjUzIDUuNzA0IDIzLjkyMy0zLjQwMyAzMS4wMTgtOS4xMDcgNy4wOTUtMTQuMDc4IDUuNzE2LTE4LjgxMSAxMi41MjEtNC43MzQgNi44MDUgMy45OTIgMTIuMTg0IDEwLjA2NCAxNS45NyA2LjA3MiAzLjc4NSAxNC42OTggMTAuOTY0IDE4LjU5MyAxNi40MjUgMi42NzYgMy43NTMgNC4yODQgOCA1LjA3IDEwLjM3NkgxMTBWMTBaTTEwIDE3LjUwNVYxMTBoMzMuNmM0LjY3OC01Ljg3OSA2LjczNi0xMi4zNDMgMi44MzItMTcuODctNC4xOTctNS45NC02Ljc0MS04Ljc3LTEwLjA2LTE1LjYzMy0yLjY1NS01LjQ5Mi0uNjg1LTEyLjc3OCAyLjY0NS0xNi43NDggMy4zMjktMy45NyA1LjY3NC01LjUzOSA4LjE4Ny02Ljk2IDcuMTc3LTQuMDYgMTcuMDUtNy40NyAxNi4yNzItMTUuMS0uNzc4LTcuNjI5LTUuMDA0LTEwLjUwOC0xNS4yNzUtMTQuNTc0QzM3LjkzIDE5LjA0OCAxMCAxNy41MDUgMTAgMTcuNTA1WiIvPgo8L3N2Zz4K&logoColor=white" />
 <img src="https://img.shields.io/badge/Rijan-Janet_WM-ff00ff?style=for-the-badge&color=0a0a0f&labelColor=ff00ff" />
 <img src="https://img.shields.io/badge/Halmak-Keyboard-00f0ff?style=for-the-badge&color=0a0a0f&labelColor=00f0ff" />
 </p>
